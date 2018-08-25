@@ -1,0 +1,7 @@
+BASE1
+BASE2
+MODEL
+DataManager.py
+Conv_Script/embedding_visualization.py
+Conv_Script/__pycache__/*
+Conv_Script/sn_to_tfrecord.py
