@@ -1,5 +1,3 @@
-"""Train the model"""
-
 import argparse
 import os
 import pathlib
